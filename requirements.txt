@@ -1,0 +1,8 @@
+av==11.0.0
+mediapipe==0.10.9
+numpy==1.25.2
+opencv_contrib_python==4.9.0.80
+pandas==2.0.3
+scikit_learn==1.4.0
+streamlit==1.31.1
+streamlit_webrtc==0.47.1
